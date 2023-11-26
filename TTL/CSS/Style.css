@@ -1,0 +1,27 @@
+.nav-logo {
+    display: inline-block;     
+}
+
+.right { 
+    position: absolute;
+    right: 0px;
+    display: inline-block;
+    overflow: auto;
+    width: auto;
+}
+
+.navbar li {
+    list-style: none;
+    float: right;
+    margin: 13px 10px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar li a:hover {
+    
+    color: blue;
+}
